@@ -1,5 +1,5 @@
-//Дана целочисленная матрица 14x14.
-//Найти максимум в заштрихованной области.
+п»ї//Р”Р°РЅР° С†РµР»РѕС‡РёСЃР»РµРЅРЅР°СЏ РјР°С‚СЂРёС†Р° 14x14.
+//РќР°Р№С‚Рё РјР°РєСЃРёРјСѓРј РІ Р·Р°С€С‚СЂРёС…РѕРІР°РЅРЅРѕР№ РѕР±Р»Р°СЃС‚Рё.
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -7,6 +7,6 @@ int main(void) {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	srand(time(NULL));
-	int M[14][14], indexdif = 0, lcount = 0, hcount = 0, max = 0, fillflag = 0, num = 1;
+	int 
 	return 0;
 }
